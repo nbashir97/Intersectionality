@@ -8,7 +8,7 @@ Eduardo Bernabe, Meisser Madera, Elsa Delgado-Angulo, Nasir Bashir
 [Published paper](insert/link/to/paper) (doi: 10.1016/j.jdent.2022.104304)
 
 ### Background
-This R and Stata code was used to analyse NHANES 2009-2018, in order to assess the intersectional effects of sex, race/ethnicity, income, and country of birth on oral health outcomes. The findings were published in Community Dentistry and oral Epidemiology.
+These R and Stata code were used to analyse NHANES 2009-2018, in order to assess the intersectional effects of sex, race/ethnicity, income, and country of birth on oral health outcomes. The findings were published in Community Dentistry and oral Epidemiology.
 
 ### Abstract
 
