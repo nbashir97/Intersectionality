@@ -22,9 +22,9 @@ use "`path'/nhanes_cleaned.dta", clear
 
 * Fit appropriate model
 ** Self reported oral health: melogit health i.sex i.race i.income i.birth if(included_health == 1) || group:, or
-** Edentulism: 				  melogit health i.sex i.race i.income i.birth if(included_health == 1) || group:, or
-** Untreated caries: 		  melogit health i.sex i.race i.income i.birth if(included_health == 1) || group:, or
-** Periodontitis: 			  melogit health i.sex i.race i.income i.birth if(included_health == 1) || group:, or
+** Edentulism: 				        melogit health i.sex i.race i.income i.birth if(included_health == 1) || group:, or
+** Untreated caries: 		      melogit health i.sex i.race i.income i.birth if(included_health == 1) || group:, or
+** Periodontitis: 			      melogit health i.sex i.race i.income i.birth if(included_health == 1) || group:, or
 
 * Probability (fixed + intersectional)
 predict combined_prob
