@@ -5,7 +5,7 @@
 ** Do-File 2: Group counts **
 
 local path "insert/path/to/data"
-use "`path'\nhanes_cleaned.dta", clear
+use "`path'/nhanes_cleaned.dta", clear
 
 ****************************************************************
 
