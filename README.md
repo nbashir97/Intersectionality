@@ -2,7 +2,7 @@
 Code for the paper on intersectionality and oral health outcomes.
 
 #### Authors
-Eduardo Bernabe, Meisser Madera, Elsa Delgado-Angulo, Nasir Bashir
+Meisser Madera, Elsa Delgado-Angulo, Nasir Bashir, Eduardo Bernabé
 
 #### Links
 [Published paper](https://onlinelibrary.wiley.com/doi/full/10.1111/cdoe.12845) (doi: 10.1111/cdoe.12845)
